@@ -11,8 +11,8 @@ I'm a student at **SMK Telkom Sidoarjo** passionate about making a detailed prom
 
 ### 🌐 Contacts 
 
-  ***Phone: +6283831963818***
-  ***Email: ranggaDava12@gmail.com***
+  ***Phone: +6283831963818*** <br>
+  ***Email: ranggaDava12@gmail.com*** <br>
   ***Discord: -***
 
 ---
