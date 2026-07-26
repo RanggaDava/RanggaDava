@@ -1,6 +1,6 @@
 <!-- Header Banner / GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTU2ZWEzbHZmcjE5NDZ0dmJpM3lrZnNheHBkMjhlYjI2aWRvbmc2ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uvMmyqVEZhBhpo5vWR/giphy.gif" width="100%" alt="Header Banner" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3ZyZzJ0bW10Nmk0ODY4eW04dHRqemlwcWNldzFzNjBvNGZibDdyaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nek0K6SkuM73fcP2gg/giphy.gif" width="100%" alt="Header Banner" />
 </p>
 
 # Hi there, I'm Rangga! 👋
