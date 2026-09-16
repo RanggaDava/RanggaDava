@@ -5,7 +5,7 @@
 
 # Hi there, I'm Rangga! 👋
 
-I'm a student at **SMK Telkom Sidoarjo** passionate about making a detailed prompts for AI to find the best answer posible. Every word is an opportunity to learn, innovate, and build meaningful solution.
+Hello I'm a student at **SMK Telkom Sidoarjo**. I’m a junior web developer who turns coffee, curiosity, and code into clean, interactive web experiences. When I’m not diving deep into full-stack development or fine-tuning database schemas, I’m usually experimenting with new tech, deciphering documentation, or hunting down that one elusive bug that only disappears when someone else watches. I thrive on solving complex problems, writing readable code, and building fast, intuitive interfaces that users love. Ready to bring fresh energy, strong technical foundations, and a serious passion for learning to a team that values innovation—and the occasional tech meme.
 
 ---
 
